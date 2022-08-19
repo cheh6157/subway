@@ -1,0 +1,19 @@
+/* 공통 소스 */
+
+body{
+    font-family:'SF KR',"Helvetica Neue",'Montserrat',Arial,sans-serif;
+    min-width: 1240px;
+}
+.blind{
+    position: absolute;
+    width: 1px;height: 1px;
+    overflow: hidden;
+    clip: (0 0 0 0);
+    margin: -1px;
+}
+.common-inner{
+    max-width: 1300px;
+    margin: 0 auto;
+    padding: 0 30px;
+}
+

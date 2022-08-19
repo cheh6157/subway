@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300;400;500;600;700&display=swap');
+@font-face {
+    font-family:'SF KR' ;
+    src: url(../font/SFProKRDisplay_light.woff2)format('woff2');
+    font-weight: 300;
+}
+@font-face {
+    font-family:'SF KR' ;
+    src: url(../font/SFProKRDisplay_regular.woff2)format('woff2');
+    font-weight: 400;
+}
+@font-face {
+    font-family:'SF KR' ;
+    src: url(../font/SFProKRDisplay_medium.woff2)format('woff2');
+    font-weight: 500;
+}
+@font-face {
+    font-family:'SF KR' ;
+    src: url(../font/SFProKRDisplay_semibold.woff2)format('woff2');
+    font-weight: 600;
+}
+@font-face {
+    font-family:'SF KR' ;
+    src: url(../font/SFProKRDisplay_bold.woff2)format('woff2');
+    font-weight: 700;
+}
